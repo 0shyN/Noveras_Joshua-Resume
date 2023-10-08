@@ -1,0 +1,30 @@
+ body {
+        background-color:papayawhip;
+        margin-left: 50px; 
+    }
+    h1 {
+        color:rgb(2, 25, 57);
+        margin-top:20px;
+        margin-left:1px;
+        padding:10px;    
+    }
+    h2 {
+        color:rgb(2, 25, 57)
+    }
+    p {
+        font-family:fantasy;
+        font-size:larger;
+        margin-right: 500px;
+        margin-top:20px;
+        }
+    img {
+        float:right;
+        max-width: 250px;
+        max-height: 250px;
+        margin-right: 150px;
+        margin-top:20px;
+        position: relative;
+        }
+    .mix_ing{
+        padding:10px;
+    }
